@@ -4,7 +4,7 @@ from pages.loginPage import LoginPage
 from pages.homePage import HomePage
 from utils import utils as utils
 import allure
-import moment
+
 
 
 @pytest.mark.usefixtures("test_setup")
